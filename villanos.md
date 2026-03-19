@@ -1,5 +1,5 @@
 ##villanos 
 
 * doctor doom
-* doctor doom
 * red skool
+* capitan america
